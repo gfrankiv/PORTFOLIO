@@ -46,6 +46,8 @@ My name is Halyna Frankiv. Recently I decided to change my career path. I liked 
 ## **My projects**
 - [Automated PyCharm tests/Dare IT Challenge/GitHub](https://github.com/gfrankiv/challenge_portfolio_pati)
 - [Robot Framework tests/ PyCharm/Dare IT Challenge/GitHub](https://github.com/gfrankiv/halyna_robotframework)
+## **My LinkedIn Profile**
+[LinkedIn](linkedin.com/in/halyna-frankiv-b98047204)
  
 
 
