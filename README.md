@@ -37,7 +37,7 @@ My name is Halyna Frankiv. Recently I decided to change my career path. I liked 
 -  Dare IT
 ## **Facebook Groups**
 - UAtalents
-- Dare IT Community
+- Dare IT Community                                                      
 ## **My testing documents' examples**
 - [Test cases for site scouts-test.futbolkolektyw.pl/ Dare IT Challenge](https://drive.google.com/drive/u/0/folders/1FAzl3K_DVBwfPW38Tskul1tE6ZT6pYZV)
 - [Bug Report for site scouts-test.futbolkolektyw.pl/ Dare IT Challenge](https://docs.google.com/spreadsheets/d/1r_ftWbF_bNFPXBr3EpuPXgj7Af4LIlHIJ6CcdmSWbuo/edit#gid=0)
