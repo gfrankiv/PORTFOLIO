@@ -25,7 +25,16 @@ My name is Halyna Frankiv. Recently I decided to change my career path. I liked 
 - Dare IT course(Automation Testing)
 ## **Books**
 - S.S.Kulikov - Software Testing, 3rd edition, 2020
-
+## **YouTube Channels**
+-  Artsiom Rusau QA Life
+-  Software Testing Mentor
+-  Hillel IT School
+-  QA START UP - IT Training Center
+-  Super SQA
+-  Popeliuha | Безкоштовний курс з Тестування ПЗ
+-  Corey Schafer
+-  edureka!
+-  Dare IT
 
 
 
