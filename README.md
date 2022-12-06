@@ -24,7 +24,8 @@ My name is Halyna Frankiv. Recently I decided to change my career path. I liked 
 - The Online Testdrive Course: IT and software testing basis(QA START UP)
 - Dare IT course(Automation Testing)
 ## **Books**
-S.S.Kulikov - Software Testing, 3rd edition, 2020
+- S.S.Kulikov - Software Testing, 3rd edition, 2020
+
 
 
 
