@@ -7,6 +7,7 @@ My name is Halyna Frankiv. Recently I decided to change my career path. I liked 
 - Jira
 - Postman
 - PyCharm
+- Robot Framework
 - Loom
 - Joxi
 ## **Tech skills**
@@ -18,7 +19,6 @@ My name is Halyna Frankiv. Recently I decided to change my career path. I liked 
 - Reporting bugs
 - Finding uniqe xPaths
 - Python
-- Robot Framework
 ## **Courses**
 - Mate Academy SQL course
 - The Online Testdrive Course: IT and software testing basis(QA START UP)
