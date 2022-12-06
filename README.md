@@ -35,6 +35,20 @@ My name is Halyna Frankiv. Recently I decided to change my career path. I liked 
 -  Corey Schafer
 -  edureka!
 -  Dare IT
+## **Facebook Groups**
+- UAtalents
+- Dare IT Community
+## **My testing documents' examples**
+- [Test cases for site scouts-test.futbolkolektyw.pl/ Dare IT Challenge](https://drive.google.com/drive/u/0/folders/1FAzl3K_DVBwfPW38Tskul1tE6ZT6pYZV)
+- [Bug Report for site scouts-test.futbolkolektyw.pl/ Dare IT Challenge](https://docs.google.com/spreadsheets/d/1r_ftWbF_bNFPXBr3EpuPXgj7Af4LIlHIJ6CcdmSWbuo/edit#gid=0)
+- [Test Report for site scouts.futbolkolektyw.pl/PyCharm/Dare IT Challenge](https://docs.google.com/spreadsheets/d/1u13o7_w-FeB1As2Och-Pu-QUEENVcwYixGfWEhe5nAg/edit#gid=0)
+- [Check-list for site exe.ua](https://docs.google.com/spreadsheets/d/1dBsMBsq5b-_EyUwhb5tRIfP9ZYH2ZOcFfS5PNZ0dTz4/edit#gid=0)
+## **My projects**
+- [Automated PyCharm tests/Dare IT Challenge/GitHub](https://github.com/gfrankiv/challenge_portfolio_pati)
+- [Robot Framework tests/ PyCharm/Dare IT Challenge/GitHub](https://github.com/gfrankiv/halyna_robotframework)
+ 
+
+
 
 
 
