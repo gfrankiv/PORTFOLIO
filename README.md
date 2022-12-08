@@ -19,10 +19,10 @@ My name is Halyna Frankiv. Recently I decided to change my career path. I liked 
 - Reporting bugs
 - Finding uniqe xPaths
 - Python
-## **Courses**
+## **Courses & Certificates**
 - Mate Academy SQL course
-- The Online Testdrive Course: IT and software testing basis(QA START UP)
-- Dare IT Challenge(Automation Testing)
+- [The Online Testdrive Course: IT and software testing basis(QA START UP)/Certificate](https://drive.google.com/drive/u/0/my-drive)
+- [Dare IT Challenge(Automation Testing)/Certificate](https://drive.google.com/drive/u/0/folders/1Vq1Zmu8J-eontYydnlZJabqlgKNaKgkk)
 ## **Books**
 - S.S.Kulikov - Software Testing, 3rd edition, 2020
 ## **YouTube Channels**
