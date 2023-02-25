@@ -1,6 +1,6 @@
 # **PORTFOLIO**
 ## **About me**
-My name is Halyna Frankiv. Recently I decided to change my career path. I liked the IT branch and it attracted me a lot for the last few years. I've got already some experience with content creation (copywriter), PPC, and link building, but it wasn't it. I understood that I could do something more difficult and more interesting. My primary specialty was a teacher of English and German. As I can teach someone, I also know, how to study on my own. And after testing courses and self-study, I've understood how necessary and substantial software testing is. It's so important to create things of high quality. I will prove the acquired skills and develop myself for further proceedings. 
+My name is Halyna Frankiv. Recently I decided to change my career path. I liked the IT branch and it attracted me a lot for the last few years. I've got already some experience with content creation (copywriter), PPC, and link building, but it wasn't it. I understood that I could do something more difficult and more interesting. My primary specialty was a teacher of English and German. As I can teach someone, I also know, how to study on my own. And after testing courses and self-study, I've understood how necessary and substantial software testing is. It's so important to create things of high quality. I've already got some work experience in a role of QA on freelance(for 6 months) in some short projects. I'm going to prove the acquired skills and develop myself for further proceedings. 
 ## **Tools**
 - Github
 - Selenium IDE
