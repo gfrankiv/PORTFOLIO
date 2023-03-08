@@ -17,7 +17,7 @@ My name is Halyna Frankiv. Recently I decided to change my career path. I liked 
 - Software testing
 - Creating test cases
 - Reporting bugs
-- Finding uniqe xPaths
+- Finding unique xPaths
 - Python
 ## **Courses & Certificates**
 - Mate Academy SQL course
