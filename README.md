@@ -50,7 +50,7 @@ My name is Halyna Frankiv. Recently I decided to change my career path. I liked 
 ## **My LinkedIn Profile**
 - [Halyna Frankiv](https://www.linkedin.com/in/halyna-frankiv-b98047204/)
 ## **My CV**
-- [CV](https://drive.google.com/file/d/16sbhVORLGbXIkc2O8s0gANykKViJewiw/view?usp=sharing)
+- [CV](https://drive.google.com/file/d/1Drohvry0JqS-UiQZv7Ktkf9tRjyehsw0/view?usp=sharing)
  
 
 
