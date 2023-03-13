@@ -3,7 +3,7 @@
 My name is Halyna Frankiv. Recently I decided to change my career path. I liked the IT branch, which attracted me a lot over the last few years. My primary specialty was a teacher of English and German (6 years of experience). As I can teach someone, I also know, how to study on my own. And I started doing this. I worked as a copywriter for foreign companies for 5 years. Also, I've studied to be a marketing specialist and SEO specialist. I successfully worked for a year before the war with Google Adwords, Google Analytics, Facebook Ads, and link building remotely on 2 projects. So, I've got already experience with content creation (copywriting), PPC, and link building for foreign clients. I didn't quite like this job, so I started studying further, to become a QA engineer. I understood that I could do something more difficult and more interesting. And after courses and self-study, I've realized how necessary and substantial software testing is. It's so important to create things of high quality. I'm going to prove the acquired skills and develop my knowledge for further proceedings.
 ## **Tools**
 - Github
-- Selenium IDE
+- Selenium 
 - Jira
 - Postman
 - PyCharm
