@@ -48,7 +48,7 @@ My name is Halyna Frankiv. Recently I decided to change my career path. I liked 
 - [Functional Testing checklist/ QATestLab](https://docs.google.com/spreadsheets/d/1RmpDYf0gEF3ASrQjpArPMr2GvUwKZuJpyz6J1lybXyQ/edit#gid=0)
 - [Layout Testing checklist/ QATestLab](https://docs.google.com/spreadsheets/d/196UzB6-wnBBZ_bpdhLmMylVJfg82KDKYa4n_92CGy6E/edit#gid=0)
 - [Mobile Testing checklist/ QATestLab](https://docs.google.com/spreadsheets/d/1CEtnmHtYPdZx6zR9DT180y8QuaGmwSUn-z263SJkInE/edit#gid=0)
-- [Test cases for site scouts-test.futbolkolektyw.pl/ Dare IT Challenge](https://drive.google.com/drive/u/0/folders/1FAzl3K_DVBwfPW38Tskul1tE6ZT6pYZV)
+- [Test cases for site scouts-test.futbolkolektyw.pl/ Dare IT Challenge](https://docs.google.com/spreadsheets/d/1tXPu3XBxTtwBrxALS6lIfQA10YoGvDaVwF07FTyq3pQ/edit?usp=sharing)
 - [Bug Report for site scouts-test.futbolkolektyw.pl/ Dare IT Challenge](https://docs.google.com/spreadsheets/d/1r_ftWbF_bNFPXBr3EpuPXgj7Af4LIlHIJ6CcdmSWbuo/edit#gid=0)
 - [Test Report for site scouts.futbolkolektyw.pl/PyCharm/Dare IT Challenge](https://docs.google.com/spreadsheets/d/1u13o7_w-FeB1As2Och-Pu-QUEENVcwYixGfWEhe5nAg/edit#gid=0)
 - [Check-list for site exe.ua](https://docs.google.com/spreadsheets/d/1dBsMBsq5b-_EyUwhb5tRIfP9ZYH2ZOcFfS5PNZ0dTz4/edit#gid=0)
