@@ -45,7 +45,7 @@ My name is Halyna Frankiv. Recently I decided to change my career path. I liked 
 - Dare IT Community 
 - QATestLab
 ## **My testing documents' examples**
-- [Functional Testing checklist/ QATestLab] (https://docs.google.com/spreadsheets/d/1RmpDYf0gEF3ASrQjpArPMr2GvUwKZuJpyz6J1lybXyQ/edit#gid=0)
+- [Functional Testing checklist/ QATestLab](https://docs.google.com/spreadsheets/d/1RmpDYf0gEF3ASrQjpArPMr2GvUwKZuJpyz6J1lybXyQ/edit#gid=0)
 - [Layout Testing checklist/ QATestLab](https://docs.google.com/spreadsheets/d/196UzB6-wnBBZ_bpdhLmMylVJfg82KDKYa4n_92CGy6E/edit#gid=0)
 - [Mobile Testing checklist/ QATestLab](https://docs.google.com/spreadsheets/d/1CEtnmHtYPdZx6zR9DT180y8QuaGmwSUn-z263SJkInE/edit#gid=0)
 - [Test cases for site scouts-test.futbolkolektyw.pl/ Dare IT Challenge](https://drive.google.com/drive/u/0/folders/1FAzl3K_DVBwfPW38Tskul1tE6ZT6pYZV)
