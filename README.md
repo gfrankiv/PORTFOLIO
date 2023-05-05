@@ -24,7 +24,7 @@ My name is Halyna Frankiv. Recently I decided to change my career path. I liked 
 - Finding unique xPaths
 ## **Courses & Certificates**
 - Mate Academy SQL course
-- [The Online Testdrive Course: IT and software testing basis(QA START UP)/Certificate](https://drive.google.com/drive/u/0/my-drive)
+- [The Online Testdrive Course: IT and software testing basis(QA START UP)/Certificate](https://drive.google.com/file/d/16HThZCqsw1cST7jAZHc0o7yQpyZbTu49/view?usp=sharing)
 - [Dare IT Challenge(Automation Testing)/Certificate](https://drive.google.com/file/d/1wMLGn8-lQQglhj35oUEMx9bSmup-mig7/view?usp=sharing)
 - [QATestLab Training Center Online Course(Fundamentals of Software Testing)/Certificate with Scores](https://drive.google.com/file/d/11IJx4xG0Su2pflcGFXbVZ33YvLkJk32I/view?usp=sharing)
 ## **Books**
