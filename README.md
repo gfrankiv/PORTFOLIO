@@ -73,7 +73,7 @@
 ## **My LinkedIn Profile**
 - [Halyna Frankiv](https://www.linkedin.com/in/halyna-frankiv-b98047204/)
 ## **My CV**
-- [CV](https://drive.google.com/file/d/1n9res42a7cHy6sbWCutP19SS4zWm-kAH/view?usp=sharing)
+- [CV](https://docs.google.com/document/d/1zKGrzvjbhONdLDEDrwTESGg5bHHlLFeCX8rrHrZt9QY/edit?usp=sharing) 
  
 
 
