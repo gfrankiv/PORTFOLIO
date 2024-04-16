@@ -1,7 +1,7 @@
 # **PORTFOLIO**
 ## **About me**
 ## **Halyna Frankiv**
-**Junior QA Engineer** with a foundational understanding of software testing methodologies and tools. High quality proficiency in creating test documentation, SQL, Python, and various testing frameworks. Eager to learn and gain experience in web and mobile application testing. Committed to contributing to the delivery of high-quality software products. Fluent in English, German, Polish, and Ukrainian.
+**Junior QA Engineer** with a foundational understanding of software testing methodologies and tools. High quality proficiency in creating test documentation, practical usage of the testing and workflow tools, SQL, Python, and various testing frameworks. Eager to learn and gain experience in web and mobile application testing. Committed to contributing to the delivery of high-quality software products. Fluent in English, German, Polish, and Ukrainian.
 ## **Tools**
 - Github
 - Selenium 
@@ -13,7 +13,8 @@
 - PyCharm
 - Robot Framework
 - Screenpresso
-- Android Studio  
+- Android Studio
+- Bug Magnet  
 
 ## **Tech skills**
 - SQL
@@ -32,6 +33,7 @@
 - UI testing  
 - Python
 - Finding unique xPaths
+- Unix commands
 ## **Courses & Certificates**
 - Mate Academy SQL course
 - [The Online Testdrive Course: IT and software testing basis(QA START UP)/Certificate](https://drive.google.com/file/d/16HThZCqsw1cST7jAZHc0o7yQpyZbTu49/view?usp=sharing)
