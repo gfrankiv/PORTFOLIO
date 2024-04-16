@@ -1,6 +1,7 @@
 # **PORTFOLIO**
 ## **About me**
-My name is Halyna Frankiv. Recently I decided to change my career path. I liked the IT branch, which attracted me a lot over the last few years. So, I studied at the QA Start-Up course, DareIT Automation Course(Selenium, Python, Pycharm, Robot Framework), and QATestLab Training Center(Fundamentals of Software Testing - website, mobile and game testing) and, of course,(books, YouTube Channels, etc. ).  My primary specialty was a teacher of English and German (6 years of experience). Besides, I worked as a copywriter for foreign companies for 5 years. Also, I've studied to be a marketing specialist and SEO specialist. I successfully worked for a year before the war with Google Adwords, Google Analytics, Facebook Ads, and link building remotely on 2 projects for Polish and German companies. So, I've got already experience with content creation (copywriting), PPC, and link building for foreign clients. I didn't quite like this job, so I started studying further, to become a QA engineer, as I understood that I could do something more difficult and more interesting. I'm going to prove the acquired skills and develop my knowledge for further proceedings.
+## **Halyna Frankiv**
+**Junior QA Engineer** with a foundational understanding of software testing methodologies and tools. High quality proficiency in creating test documentation, SQL, Python, and various testing frameworks. Eager to learn and gain experience in web and mobile application testing. Committed to contributing to the delivery of high-quality software products. Fluent in English, German, Polish, and Ukrainian.
 ## **Tools**
 - Github
 - Selenium 
@@ -11,16 +12,25 @@ My name is Halyna Frankiv. Recently I decided to change my career path. I liked 
 - TestLink
 - PyCharm
 - Robot Framework
-- Loom
-- Joxi
+- Screenpresso
+- Android Studio  
+
 ## **Tech skills**
 - SQL
 - HTML
+- HTTP
 - DevTools
+- Test planning
+- Test design
+- Test execution
+- Testing documentation
+- Bug reporting
+- API testing
+- Manual testing
+- Web and mobile app testing
+- Functional testing
+- UI testing  
 - Python
-- Software testing
-- Creating test cases
-- Reporting bugs
 - Finding unique xPaths
 ## **Courses & Certificates**
 - Mate Academy SQL course
