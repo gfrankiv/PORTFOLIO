@@ -44,7 +44,6 @@
 ## **Books**
 - S.S.Kulikov - Software Testing, 3rd edition, 2020
 ## **YouTube Channels**
--  Artsiom Rusau QA Life
 -  Software Testing Mentor
 -  Hillel IT School
 -  QA START UP - IT Training Center
@@ -54,10 +53,15 @@
 -  edureka!
 -  Dare IT
 -  QATestLab Training Center
-## **Facebook Groups**
-- UAtalents
-- Dare IT Community 
-- QATestLab
+-  AkademiaQA
+-  Artsiom Rusau QA Life
+## **Facebook/Instagram Groups, Pages**
+- UAtalents(Facebook)
+- Dare IT Community(Facebook) 
+- QATestLab(Facebook)
+- pro_python_ua(Instagram)
+- prjctr_institute(Instagram)
+- prjctr_foundation(Instagram)
 ## **My testing documents' examples**
 - [Functional Testing checklist/ QATestLab](https://docs.google.com/spreadsheets/d/1RmpDYf0gEF3ASrQjpArPMr2GvUwKZuJpyz6J1lybXyQ/edit#gid=0)
 - [Layout Testing checklist/ QATestLab](https://docs.google.com/spreadsheets/d/196UzB6-wnBBZ_bpdhLmMylVJfg82KDKYa4n_92CGy6E/edit#gid=0)
