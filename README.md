@@ -81,7 +81,7 @@
 
 ## **My projects**
 - [JurFem Site Testing Project](https://drive.google.com/file/d/1agSdXhW33b1XFM7iyfk680A89cXAxTm0/view?usp=sharing)
-- [PrestaShop Training Project](https://docs.google.com/presentation/d/1-up6ZXr0ryqZ2nfXPv8JAzNF99_AaTSDxbN7Tr0_j-M/edit?usp=sharing)
+- [Online-Shop Internship Project](https://docs.google.com/presentation/d/1-up6ZXr0ryqZ2nfXPv8JAzNF99_AaTSDxbN7Tr0_j-M/edit?usp=sharing)
 - [Freelance Android App Selenium(Appium) Testing](https://drive.google.com/file/d/1wzwKl8gRAskH-EgHwODS83gFrrIzTIIz/view?usp=sharing)
 - [Automated PyCharm tests/Dare IT Challenge/GitHub](https://github.com/gfrankiv/challenge_portfolio_pati)
 - [Robot Framework tests/ PyCharm/Dare IT Challenge/GitHub](https://github.com/gfrankiv/halyna_robotframework)
