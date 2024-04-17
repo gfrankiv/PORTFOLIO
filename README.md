@@ -72,7 +72,7 @@
 - [Check-list for site exe.ua](https://docs.google.com/spreadsheets/d/1dBsMBsq5b-_EyUwhb5tRIfP9ZYH2ZOcFfS5PNZ0dTz4/edit#gid=0)
 - [Check-list for site globalsqa.com](https://docs.google.com/spreadsheets/d/1SlUw87Y8Uj5JKhHcMfrXy1kPO20SGCLGWP3M37_V5vM/edit#gid=0)
 - [Test Rail/Test Run](http://joxi.ru/J2bpEvDiM03Xer )
-- [Jira/Bug Reporting](http://joxi.ru/LmG6QZ5CZwxnKr)
+- [Jira/Bug Reporting](https://drive.google.com/file/d/1SA4g5AG_d0ULHBc0fNe0QsCikJbBgx04/view?usp=sharing)
 ## **My projects**
 - [Automated PyCharm tests/Dare IT Challenge/GitHub](https://github.com/gfrankiv/challenge_portfolio_pati)
 - [Robot Framework tests/ PyCharm/Dare IT Challenge/GitHub](https://github.com/gfrankiv/halyna_robotframework)
