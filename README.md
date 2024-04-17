@@ -63,6 +63,12 @@
 - prjctr_institute(Instagram)
 - prjctr_foundation(Instagram)
 ## **My testing documents' examples**
+- [Test Rail/Test Run](https://drive.google.com/file/d/1-E2gRlp2sqlCb_xr7t8xSpVWWJMM2nSi/view?usp=drivesdk)
+- [Jira/Bug Reporting Dashboard](https://drive.google.com/file/d/1SA4g5AG_d0ULHBc0fNe0QsCikJbBgx04/view?usp=sharing)
+- [Jira Bug Report Screenshot](https://drive.google.com/file/d/1Xg5S13Ti-H42xzODqW8J6WLW5OzT_Yj0/view?usp=drivesdk)
+- [Jira Bug Report Screenshot1](https://drive.google.com/file/d/1iyaXvZ2HlSWkx5T5KsICHtUFBhn2bgIQ/view?usp=drivesdk)
+- [Jira JurFem Project Sprint](https://drive.google.com/file/d/1M5v78_WWrvLP3ZJrfr26_4E8-OjFMqCU/view?usp=drivesdk)
+- [Testomat My Store Project](https://drive.google.com/file/d/1jPhXM-UHz-1L9ga_jjwy65Z9ScEM-ZvQ/view?usp=sharing)
 - [Functional Testing checklist/ QATestLab](https://docs.google.com/spreadsheets/d/1RmpDYf0gEF3ASrQjpArPMr2GvUwKZuJpyz6J1lybXyQ/edit#gid=0)
 - [Layout Testing checklist/ QATestLab](https://docs.google.com/spreadsheets/d/196UzB6-wnBBZ_bpdhLmMylVJfg82KDKYa4n_92CGy6E/edit#gid=0)
 - [Mobile Testing checklist/ QATestLab](https://docs.google.com/spreadsheets/d/1CEtnmHtYPdZx6zR9DT180y8QuaGmwSUn-z263SJkInE/edit#gid=0)
@@ -71,9 +77,9 @@
 - [Test Report for site scouts.futbolkolektyw.pl/PyCharm/Dare IT Challenge](https://docs.google.com/spreadsheets/d/1u13o7_w-FeB1As2Och-Pu-QUEENVcwYixGfWEhe5nAg/edit#gid=0)
 - [Check-list for site exe.ua](https://docs.google.com/spreadsheets/d/1dBsMBsq5b-_EyUwhb5tRIfP9ZYH2ZOcFfS5PNZ0dTz4/edit#gid=0)
 - [Check-list for site globalsqa.com](https://docs.google.com/spreadsheets/d/1SlUw87Y8Uj5JKhHcMfrXy1kPO20SGCLGWP3M37_V5vM/edit#gid=0)
-- [Test Rail/Test Run](https://drive.google.com/file/d/1-E2gRlp2sqlCb_xr7t8xSpVWWJMM2nSi/view?usp=drivesdk)
-- [Jira/Bug Reporting](https://drive.google.com/file/d/1SA4g5AG_d0ULHBc0fNe0QsCikJbBgx04/view?usp=sharing)
+
 ## **My projects**
+- [Online-Shop Training Project](https://docs.google.com/presentation/d/1-up6ZXr0ryqZ2nfXPv8JAzNF99_AaTSDxbN7Tr0_j-M/edit?usp=sharing)
 - [Automated PyCharm tests/Dare IT Challenge/GitHub](https://github.com/gfrankiv/challenge_portfolio_pati)
 - [Robot Framework tests/ PyCharm/Dare IT Challenge/GitHub](https://github.com/gfrankiv/halyna_robotframework)
 ## **My LinkedIn Profile**
