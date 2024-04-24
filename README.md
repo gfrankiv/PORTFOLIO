@@ -40,6 +40,9 @@
 ## **Courses & Certificates**
 - [Projector Institute Intensive 3-month Software Testing Course, 2024/Certificate](https://drive.google.com/file/d/15TOBwhtGWYJXqo6dPcwQSjYy7u6okCDY/view?usp=sharing)
 - [QATestLab Training Center Online Course(Fundamentals of Software Testing)/Certificate with Scores](https://drive.google.com/file/d/11IJx4xG0Su2pflcGFXbVZ33YvLkJk32I/view?usp=sharing)
+- [Sololearn. Python Intermediate](https://drive.google.com/file/d/1H_pnpeR5lxc5-mYWIKhuh30q-V5LZrHP/view?usp=drivesdk)
+- [Sololearn. Introduction to Python ](https://drive.google.com/file/d/1Fdggi5PATDnZ7-4afcoYR4WXN3o3SnE3/view?usp=drivesdk)
+- [Sololearn.Introduction to SQL](https://api2.sololearn.com/v2/certificates/CC-IFSLQKBC/image/png)
 - [Dare IT Challenge(Automation Testing)/Certificate](https://drive.google.com/file/d/1wMLGn8-lQQglhj35oUEMx9bSmup-mig7/view?usp=sharing)
 - [The Online Testdrive Course: IT and software testing basis(QA START UP)/Certificate](https://drive.google.com/file/d/16HThZCqsw1cST7jAZHc0o7yQpyZbTu49/view?usp=sharing)
 - Mate Academy SQL Basics Online Course
