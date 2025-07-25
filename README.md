@@ -1,7 +1,7 @@
 # **PORTFOLIO**
 ## **About me**
 ## **Halyna Frankiv**
-**Junior QA Engineer** with a deep knowledge of software testing methodologies and tools. High quality proficiency in creating test documentation, practical usage of the testing and workflow tools, SQL, Python, and testing frameworks. Eager to strenghthen the automation testing skills. Committed to contributing to the delivery of high-quality software products. Fluent in English, German, Polish, and Ukrainian.
+**Junior QA Engineer** with a deep knowledge of software testing methodologies and tools. High quality proficiency in creating test documentation, practical usage of the testing and workflow tools. Committed to contributing to the delivery of high-quality software products. Fluent in English, German, Polish, and Ukrainian.
 ## **Tools**
 - Chrome Dev Tools  
 - Github
@@ -10,14 +10,17 @@
 - Postman
 - Mantis
 - TestLink
+- Screenpresso
+- Android Studio
+- Bug Magnet
+- Testomat
+- Trello
+- Notion
+- Figma
+- PerfectPixel
 - Selenium 
 - PyCharm
 - Robot Framework
-- Screenpresso
-- Android Studio
-- Appium
-- Bug Magnet
-- Testomat
 
 
 ## **Tech skills**
